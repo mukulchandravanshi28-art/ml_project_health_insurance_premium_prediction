@@ -10,9 +10,9 @@ Built using **Python**, **Scikit-Learn**, and **Streamlit**, this project demons
 
 Add your deployed Streamlit URL here:
 
-```text
-https://your-app-url.streamlit.app
-```
+
+https://ml-project-health-insurance-premium-price-prediction.streamlit.app/
+
 
 ---
 
@@ -233,9 +233,9 @@ Through this project I gained experience in:
 
 **Mukul Chandravanshi**
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://www.linkedin.com/in/mukul-chandravanshi/
 
-GitHub: https://github.com/your-github
+GitHub: https://github.com/mukulchandravanshi28-art
 
 ---
 
